@@ -1,0 +1,73 @@
+.Button__botao___1hAh3 {
+  font-size: 13px;
+  border-radius: 3px;
+  border: 1px solid #e4e3e4;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
+.Button__small___2Dx5t {
+  font-size: 12px;
+  padding: 7px 10px;
+  height: 30px; }
+
+.Button__medium___320Hz {
+  padding: 10px 20px;
+  height: 38px; }
+
+.Button__large___1zE4R {
+  padding: 16px 20px;
+  height: 50px; }
+
+.Button__xlarge___3bWVR {
+  padding: 20px;
+  height: 60px; }
+
+.Button__default___15IkF {
+  background-color: #F4F4F4;
+  outline: none; }
+  .Button__default___15IkF:hover {
+    background-color: #e7e7e7; }
+  .Button__default___15IkF:active {
+    background-color: #e2e2e2; }
+  .Button__default___15IkF:focus {
+    -webkit-box-shadow: 0 0 0 2pt #86bbff;
+    box-shadow: 0 0 0 2pt #86bbff; }
+
+.Button__success___29iXI {
+  color: #FFFFFF;
+  background-color: #01CD78;
+  outline: none; }
+  .Button__success___29iXI:hover {
+    background-color: #01b469; }
+  .Button__success___29iXI:active {
+    background-color: #01a963; }
+  .Button__success___29iXI:focus {
+    -webkit-box-shadow: 0 0 0 2pt #86bbff;
+    box-shadow: 0 0 0 2pt #86bbff; }
+
+.Button__action___21Afz {
+  color: #FFFFFF;
+  background-color: #0192F6;
+  outline: none; }
+  .Button__action___21Afz:hover {
+    background-color: #0183dd; }
+  .Button__action___21Afz:active {
+    background-color: #017dd2; }
+  .Button__action___21Afz:focus {
+    -webkit-box-shadow: 0 0 0 2pt #86bbff;
+    box-shadow: 0 0 0 2pt #86bbff; }
+
+.Button__force___1tzmr {
+  color: #FFFFFF;
+  background-color: #F75E5E;
+  outline: none; }
+  .Button__force___1tzmr:hover {
+    background-color: #f64646; }
+  .Button__force___1tzmr:active {
+    background-color: #f53c3c; }
+  .Button__force___1tzmr:focus {
+    -webkit-box-shadow: 0 0 0 2pt #86bbff;
+    box-shadow: 0 0 0 2pt #86bbff; }
